@@ -2,3 +2,4 @@
 $saluto = "Hello";
 <?php function updateContact($id) { /* TODO */ }
 <?php function deleteContact($id) { /* TODO */ }
+// fix: gestione contatto vuoto
